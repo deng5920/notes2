@@ -1,12 +1,10 @@
-<!-- ![logo](_media/icon.svg) -->
+# 筱涵学习笔记
 
-# docsify <small>3.5</small>
+> 记录日常学习的笔记和生活。
 
-> 一个神奇的文档网站生成器。
-
-- 简单、轻便 (压缩后 ~21kB)
-- 无需生成 html 文件
-- 众多主题
+- 笔记、日常
+- 理想生活追梦人
+- 前端开发
 
 [GitHub](https://github.com/deng5920/notes2)
-[Get Started](sty/index)
+[Get Started](sty/)
