@@ -4,7 +4,4 @@
 * [学习笔记](memo/)
   * [Git](memo/git)
   * [Vue3](memo/vue3)
-* [随手记](eassy/)
-  * [随手1](eassy/one)
-  * [随手2](eassy/two)
 * [TS](ts/)
